@@ -1,0 +1,32 @@
+div p {
+    font-weight: bold;
+    font-size: large;
+    padding: 60px;
+    margin: 40px;
+    width: 150px;
+    text-align: center;
+}   
+.one{
+    border: 7px solid rgb(72, 225, 72);
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+.two{
+    border: 7px solid rgb(222, 222, 99);
+    border-radius: 20px;
+}
+.three{
+    border: 7px solid rgb(52, 147, 206);
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.fourth{
+    border: 7px solid rgb(216, 2, 148);
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 200px;
+  
+}
